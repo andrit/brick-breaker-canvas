@@ -1,6 +1,6 @@
 # simple brickbreaker game using canvas
 ## ToDo
-- use requestAnimationFrame
+- ~~use requestAnimationFrame~~
 - wrap in react
 - add ways to gain points
 - add power ups
