@@ -1,0 +1,10 @@
+canvas{
+    background: #eee;
+}
+#statsblock{
+    width: 300px;
+    height: 200px;
+    margin: 20px auto;
+    padding: 40px;
+    border: 1px solid #333;
+}
